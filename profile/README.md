@@ -9,7 +9,7 @@ Here is a summary of the repositories currently available:
   - [YANG Library Ontology](https://github.com/candil-data-fabric/yang-library-ontology)
 
 - Data Fabric Deployment
-  - Data Fabric Helm Chart (soon)
+  - [Data Fabric Helm Chart](https://github.com/candil-data-fabric/data-fabric)
 
 - Data Fabric Modules
   - [Data Product Manager](https://github.com/candil-data-fabric/data-product-manager)
